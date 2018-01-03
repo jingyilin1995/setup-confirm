@@ -77,37 +77,37 @@ Do the following, which will let me (and you) know that everything is working.  
 1. Fully reboot your system (This is a test - you shouldn't have to do this again for class)
 1. Open Slack and say 'YOURNAME connected' in #introductions.  Clever students will say 'YOURNAME'.  Students that are more clever will know they could but choose to use their name.  :)
 1. Run `git clone` on this repository: https://github.com/seainfo6250/setup-confirm.git and enter that directory
-  * This is on the command line, not on the website.  Github will let you 'fork' the setup-confirm project, which is not what we want here.  It is not harmful, so if you accidentally fork it on github you can delete the fork or ignore it)
+    * This is on the command line, not on the website.  Github will let you 'fork' the setup-confirm project, which is not what we want here.  It is not harmful, so if you accidentally fork it on github you can delete the fork or ignore it)
 1. Run `git checkout -b setup-NEUID` where NEUID is your actual NEUID.
-  * If this is making little sense to you, that is expected.  we'll cover it in class, just follow the steps here
+    * If this is making little sense to you, that is expected.  we'll cover it in class, just follow the steps here
 1. Run `npm install`
-  * You should see some text while it downloads a library or two
-  * If you see permissions error (EACCES) you probably installed something as root/administrator, and now your normal user account can't override it. That's a bit messy to clean up, but it's doable.
-  * Lots of ways of addressing this exist, with varying levels of success and computer security.  Speak up on Slack if this is an issue for you.
+    * You should see some text while it downloads a library or two
+    * If you see permissions error (EACCES) you probably installed something as root/administrator, and now your normal user account can't override it. That's a bit messy to clean up, but it's doable.
+    * Lots of ways of addressing this exist, with varying levels of success and computer security.  Speak up on Slack if this is an issue for you.
 1. Run `node list.js`  (Notice: the last command and the next command are `npm`, but this one is `node`)
-  * You should see a list of names printed to the console
+    * You should see a list of names printed to the console
 1. Run `npm test`
-  * The messages should look happy, with 'ok' and not 'fail'
-  * If it complains about not finding 'tape' and you did the `npm install` then your PATH environment variable is probably not set as you expected.
+    * The messages should look happy, with 'ok' and not 'fail'
+    * If it complains about not finding 'tape' and you did the `npm install` then your PATH environment variable is probably not set as you expected.
 1. Edit the list of names in the list.js file to include your full name followed by YOUR email address in angle brackets:
-  * Example: `Alex Student <a.student@example.com>`
-  * Use whatever editor you intend to use to make sure there's no problem/confusion with it in this flow
-  * Don't delete or modify any other names that may be present in the file
-  * If you have a variation or different name you'd prefer, put that in double quotes in the middle of the name
-  * Example: `Alex "Lex" Student <a.student@example.com>`
+    * Example: `Alex Student <a.student@example.com>`
+    * Use whatever editor you intend to use to make sure there's no problem/confusion with it in this flow
+    * Don't delete or modify any other names that may be present in the file
+    * If you have a variation or different name you'd prefer, put that in double quotes in the middle of the name
+    * Example: `Alex "Lex" Student <a.student@example.com>`
 1. Run `node list.js` and `npm test` again now that you've saved your changes
-  * You should see your name added to the list that outputs
-  * Everything should run smoothly
+    * You should see your name added to the list that outputs
+    * Everything should run smoothly
 1. Make sure someone else hasn't updated the remote file while you've been working: `git pull origin master`
-  * If it complains about a 'merge conflict', should be able to re-edit the file and see where your change and a different change are both listed with some surrounding marker (e.g. <<<<).  
+    * If it complains about a 'merge conflict', should be able to re-edit the file and see where your change and a different change are both listed with some surrounding marker (e.g. <<<<).  
 1. Add the file to the list of files to commit: `git add list.js`
 1. Run `git status` and make sure nothing is listed as an 'Untracked file' and only `list.js` is listed to be added.  If 
 1. Commit the file: `git commit -m "Added MYNAME"` (Example: `git commit -m"Added Lex"`
 1. Send your changes to github: `git push origin setup-NEUID` (again, with your actual NEUID there)
 1. Go to the github page from step 4 and create a Pull Request, with 'master' on the left dropdown and your setup-NEUID on the right dropdown.
 1. If the changes look correct, Create the Pull Request.
-  * If you edited and added `.gitignore`, that change should be listed as well as your name.
-  * You do not need to add a message or @mention me on the PR.  
+    * If you edited and added `.gitignore`, that change should be listed as well as your name.
+    * You do not need to add a message or @mention me on the PR.  
 
 Then you're done! At some point I will look at the code and merge it into master.
 
