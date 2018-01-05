@@ -11,11 +11,11 @@ For all of the items listed here I will offer what support I can, but decipherin
 You will need a (free of cost) account on github.com
 * https://github.com/
 
-I recommend NOT using uppercase letters in your username.  You can, but it can get confusing.  If you already have an account, you have probably already dealt with the confusions.
+I recommend NOT using uppercase letters in your username.  You can, but it can get confusing.  If you already have an account, no need to change.
 
 ### Slack.com
 You will need a (free of cost) account on slack.com to join in the discussion there.
-* https://seainfo6250.slack.com/signup
+* https://seainfo6250.slack.com/signup (I will send/have sent a direct link, let me know if you need it again)
 
 I recommend the desktop client over the web-based one, but both work (as does the mobile client, but at some point you will need Slack on the same machine you are coding on).  Slack will be our primary communication method outside of class, just as it is with many programming shops.
 
@@ -26,11 +26,11 @@ You will need to install a git client (free of cost):
 
 All instruction and examples will be given with the command-line client. 
 
-Graphical clients are available.
+Graphical git clients are available.
 
 ### NodeJS and npm
 You will need to install a recent version of NodeJs (which will also install npm) (free of cost)
-* https://nodejs.org/
+* https://nodejs.org/ (8.x.x is a good choice for version)
 
 If you are familiar with and use `yarn`, that is fine, but all instruction and examples will be given with npm
 
@@ -75,7 +75,8 @@ Do the following, which will let me (and you) know that everything is working.  
 
 1. Complete all the installation and config steps above
 1. Fully reboot your system (This is a test - you shouldn't have to do this again for class)
-1. Open Slack and say 'YOURNAME connected' in #introductions.  Clever students will say 'YOURNAME'.  Students that are more clever will know they could but choose to use their name.  :)
+1. Open Slack and say 'YOURNAME connected as GITHUBACCOUNT_OR_GITHUBEMAIL' in #introductions.  Clever students will say 'YOURNAME'.  Students that are more clever will know they could but choose to use their name.  :)  
+1. Now there is a waiting period while you are added to the github repository permissions.  You should be notified in Slack when your account in ready to move forward.  This is a one-time setup step for the class.
 1. Run `git clone` on this repository: https://github.com/seainfo6250/setup-confirm.git and enter that directory
     * This is on the command line, not on the website.  Github will let you 'fork' the setup-confirm project, which is not what we want here.  It is not harmful, so if you accidentally fork it on github you can delete the fork or ignore it)
 1. Run `git checkout -b setup-NEUID` where NEUID is your actual NEUID.
@@ -101,7 +102,7 @@ Do the following, which will let me (and you) know that everything is working.  
 1. Make sure someone else hasn't updated the remote file while you've been working: `git pull origin master`
     * If it complains about a 'merge conflict', should be able to re-edit the file and see where your change and a different change are both listed with some surrounding marker (e.g. <<<<).  
 1. Add the file to the list of files to commit: `git add list.js`
-1. Run `git status` and make sure nothing is listed as an 'Untracked file' and only `list.js` is listed to be added.  If 
+1. Run `git status` and make sure nothing is listed as an 'Untracked file' and only `list.js` is listed to be added.
 1. Commit the file: `git commit -m "Added MYNAME"` (Example: `git commit -m"Added Lex"`
 1. Send your changes to github: `git push origin setup-NEUID` (again, with your actual NEUID there)
 1. Go to the github page from step 4 and create a Pull Request, with 'master' on the left dropdown and your setup-NEUID on the right dropdown.
