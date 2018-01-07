@@ -4,6 +4,7 @@ Bin Shi <shi.b@husky.neu.edu>
 Jingyi "Ashley" Lin <lin.jin@husky.neu.edu>
 Lulu Zhang <zhang.lulu@husky.neu.edu>
 Wenhui Liu <liu.wenh@husky.neu.edu>
+Jia Wang<wang.jia1@husky.neu.edu>
 `.split('\n').filter( truthy => truthy );
 
 if (require.main === module) {
