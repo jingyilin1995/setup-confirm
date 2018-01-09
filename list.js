@@ -16,6 +16,7 @@ Ryan Zhang <zhang.tingy@husky.neu.edu>
 Sihan Zhao <zhao.sih@husky.neu.edu>
 Bokin <zhang.boqu@husky.neu.edu>
 Ze Yu <yu.ze@husky.neu.edu>
+Harsha Vykunta <vykunta.h@husky.neu.edu>
 `.split('\n').filter( truthy => truthy );
 
 if (require.main === module) {
