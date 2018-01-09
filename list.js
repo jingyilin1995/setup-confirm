@@ -4,6 +4,7 @@ Bin Shi <shi.b@husky.neu.edu>
 Jingyi "Ashley" Lin <lin.jin@husky.neu.edu>
 Lulu Zhang <zhang.lulu@husky.neu.edu>
 Wenhui Liu <liu.wenh@husky.neu.edu>
+Hao Tian <tian.h@husky.neu.edu>
 Yuhan Wang<wang.yuhan2@husky.neu.edu>
 Yiteng Luo <luo.yit@husky.neu.edu>
 Zihan "Alexis" Ding <ding.ziha@husky.neu.edu>
