@@ -12,8 +12,10 @@ Jia Wang<wang.jia1@husky.neu.edu>
 Chun Yang <yang.chun@husky.neu.edu>
 Yujia Chen <chen.yuji@husky.neu.edu>
 Xiaoxiao Zhou <zhou.xiaox@husky.neu.edu>
+Ryan Zhang <zhang.tingy@husky.neu.edu>
 Sihan Zhao <zhao.sih@husky.neu.edu>
 Bokin <zhang.boqu@husky.neu.edu>
+Ze Yu <yu.ze@husky.neu.edu>
 `.split('\n').filter( truthy => truthy );
 
 if (require.main === module) {
