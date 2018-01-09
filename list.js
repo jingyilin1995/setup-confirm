@@ -13,6 +13,7 @@ Chun Yang <yang.chun@husky.neu.edu>
 Yujia Chen <chen.yuji@husky.neu.edu>
 Xiaoxiao Zhou <zhou.xiaox@husky.neu.edu>
 Sihan Zhao <zhao.sih@husky.neu.edu>
+Ze Yu <yu.ze@husky.neu.edu>
 `.split('\n').filter( truthy => truthy );
 
 if (require.main === module) {
