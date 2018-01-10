@@ -17,6 +17,9 @@ Sihan Zhao <zhao.sih@husky.neu.edu>
 Bokin <zhang.boqu@husky.neu.edu>
 Ze Yu <yu.ze@husky.neu.edu>
 Zhongfei Chi <chi.zh@husky.neu.edu>
+Yujia Zhang <zhang.yujia@husky.neu.edu>
+Zhongyu Shi <shi.zho@husky.neu.edu>
+>>>>>>> a4be7e7ae030aac0b7463e06ea1fb32d06eb02b5
 `.split('\n').filter( truthy => truthy );
 
 if (require.main === module) {
