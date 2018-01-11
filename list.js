@@ -4,6 +4,7 @@ Bin Shi <shi.b@husky.neu.edu>
 Jingyi "Ashley" Lin <lin.jin@husky.neu.edu>
 Lulu Zhang <zhang.lulu@husky.neu.edu>
 Wenhui Liu <liu.wenh@husky.neu.edu>
+Lu Niu <niu.l@husky.neu.edu>
 Hao Tian <tian.h@husky.neu.edu>
 Yuhan Wang<wang.yuhan2@husky.neu.edu>
 Yiteng Luo <luo.yit@husky.neu.edu>
@@ -14,12 +15,13 @@ Yujia Chen <chen.yuji@husky.neu.edu>
 Xiaoxiao Zhou <zhou.xiaox@husky.neu.edu>
 Ryan Zhang <zhang.tingy@husky.neu.edu>
 Sihan Zhao <zhao.sih@husky.neu.edu>
+Mengying Wu<wu.mengyi@husky.neu.edu>
 Bokin <zhang.boqu@husky.neu.edu>
 Ze Yu <yu.ze@husky.neu.edu>
 Zhongfei Chi <chi.zh@husky.neu.edu>
+Harsha Vykunta <vykunta.h@husky.neu.edu>
 Yujia Zhang <zhang.yujia@husky.neu.edu>
 Zhongyu Shi <shi.zho@husky.neu.edu>
->>>>>>> a4be7e7ae030aac0b7463e06ea1fb32d06eb02b5
 `.split('\n').filter( truthy => truthy );
 
 if (require.main === module) {
