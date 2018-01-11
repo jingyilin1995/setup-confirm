@@ -18,6 +18,7 @@ Sihan Zhao <zhao.sih@husky.neu.edu>
 Mengying Wu<wu.mengyi@husky.neu.edu>
 Bokin <zhang.boqu@husky.neu.edu>
 Ze Yu <yu.ze@husky.neu.edu>
+Zhongfei Chi <chi.zh@husky.neu.edu>
 Harsha Vykunta <vykunta.h@husky.neu.edu>
 Yujia Zhang <zhang.yujia@husky.neu.edu>
 Zhongyu Shi <shi.zho@husky.neu.edu>
