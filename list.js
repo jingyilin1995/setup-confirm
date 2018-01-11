@@ -22,6 +22,7 @@ Zhongfei Chi <chi.zh@husky.neu.edu>
 Harsha Vykunta <vykunta.h@husky.neu.edu>
 Yujia Zhang <zhang.yujia@husky.neu.edu>
 Zhongyu Shi <shi.zho@husky.neu.edu>
+Yuxin Li <li.yux@husky.neu.edu>
 `.split('\n').filter( truthy => truthy );
 
 if (require.main === module) {
