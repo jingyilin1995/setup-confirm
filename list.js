@@ -25,6 +25,7 @@ Zhongyu Shi <shi.zho@husky.neu.edu>
 Qifei "Rose" Lu <lu.qi@husky.neu.edu>
 Yuxin Li <li.yux@husky.neu.edu>
 Hengyi "Edward" Yang <yang.heng@husky.neu.edu>
+Jing Fu<fu.jing1@husky.neu.edu>
 `.split('\n').filter( truthy => truthy );
 
 if (require.main === module) {
