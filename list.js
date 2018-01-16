@@ -32,6 +32,7 @@ Tianyi Cheng <cheng.ti@husky.neu.edu>
 Lyuping Du <du.ly@husky.neu.edu>
 Lulu Tong <tong.lu@husky.neu.edu>
 Kaiwen "Kevin" Zheng <zheng.kaiw@husky.neu.edu>
+Manjula Bashini Prabhu <prabhu.ma@husky.neu.edu>
 `.split('\n').filter( truthy => truthy );
 
 if (require.main === module) {
