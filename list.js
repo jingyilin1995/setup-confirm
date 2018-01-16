@@ -28,6 +28,7 @@ Hengyi "Edward" Yang <yang.heng@husky.neu.edu>
 Ce Lan <lan.c@husky.neu.edu>
 Jing Fu <fu.jing1@husky.neu.edu>
 Qianchen He <he.qian@husky.neu.edu>
+Tianyi Cheng <cheng.ti@husky.neu.edu>
 Lyuping Du <du.ly@husky.neu.edu>
 Lulu Tong <tong.lu@husky.neu.edu>
 `.split('\n').filter( truthy => truthy );
