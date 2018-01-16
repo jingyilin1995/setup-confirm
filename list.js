@@ -6,16 +6,16 @@ Lulu Zhang <zhang.lulu@husky.neu.edu>
 Wenhui Liu <liu.wenh@husky.neu.edu>
 Lu Niu <niu.l@husky.neu.edu>
 Hao Tian <tian.h@husky.neu.edu>
-Yuhan Wang<wang.yuhan2@husky.neu.edu>
+Yuhan Wang <wang.yuhan2@husky.neu.edu>
 Yiteng Luo <luo.yit@husky.neu.edu>
 Zihan "Alexis" Ding <ding.ziha@husky.neu.edu>
-Jia Wang<wang.jia1@husky.neu.edu>
+Jia Wang <wang.jia1@husky.neu.edu>
 Chun Yang <yang.chun@husky.neu.edu>
 Yujia Chen <chen.yuji@husky.neu.edu>
 Xiaoxiao Zhou <zhou.xiaox@husky.neu.edu>
 Ryan Zhang <zhang.tingy@husky.neu.edu>
 Sihan Zhao <zhao.sih@husky.neu.edu>
-Mengying Wu<wu.mengyi@husky.neu.edu>
+Mengying Wu <wu.mengyi@husky.neu.edu>
 Bokin <zhang.boqu@husky.neu.edu>
 Ze Yu <yu.ze@husky.neu.edu>
 Zhongfei Chi <chi.zh@husky.neu.edu>
@@ -25,8 +25,11 @@ Zhongyu Shi <shi.zho@husky.neu.edu>
 Qifei "Rose" Lu <lu.qi@husky.neu.edu>
 Yuxin Li <li.yux@husky.neu.edu>
 Hengyi "Edward" Yang <yang.heng@husky.neu.edu>
+Ce Lan <lan.c@husky.neu.edu>
+Jing Fu <fu.jing1@husky.neu.edu>
 Qianchen He <he.qian@husky.neu.edu>
 Lyuping Du <du.ly@husky.neu.edu>
+Lulu Tong <tong.lu@husky.neu.edu>
 `.split('\n').filter( truthy => truthy );
 
 if (require.main === module) {
