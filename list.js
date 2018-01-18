@@ -36,9 +36,9 @@ Lin "Frank" Liu <liu.lin2@husky.neu.edu>
 Manjula Bashini Prabhu <prabhu.ma@husky.neu.edu>
 Xuhan Shan <shan.xu@husky.neu.edu>
 Tianyu Hou <hou.tia@husky.neu.edu>
-`
-  .split('\n')
-  .filter(truthy => truthy);
+Rucheng Xiao <xiao.ruc@husky.neu.edu>
+`.split('\n').filter( truthy => truthy );
+
 
 if (require.main === module) {
   for (person of people) {
