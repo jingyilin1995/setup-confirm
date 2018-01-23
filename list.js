@@ -38,6 +38,7 @@ Xuhan Shan <shan.xu@husky.neu.edu>
 Tianyu Hou <hou.tia@husky.neu.edu>
 Rucheng Xiao <xiao.ruc@husky.neu.edu>
 Ching-Chi "Amanda" Chang<chang.ching@husky.neu.edu>
+Yue Yang <yang.yue@husky.neu.edu>
 `.split('\n').filter( truthy => truthy );
 
 
