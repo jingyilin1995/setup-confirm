@@ -41,6 +41,7 @@ ChungChe Cheng <cheng.chung@husky.neu.edu>
 Ching-Chi "Amanda" Chang<chang.ching@husky.neu.edu>
 Xiao Yang <yang.xiao1@husky.neu.edu>
 Yue Yang <yang.yue@husky.neu.edu>
+Xiaohan Qiu <qiu.x@husky.neu.edu>
 `.split('\n').filter( truthy => truthy );
 
 
