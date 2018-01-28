@@ -44,6 +44,7 @@ Yue Yang <yang.yue@husky.neu.edu>
 Xiaohan Qiu <qiu.x@husky.neu.edu>
 Hongbin Li <li.hongb@husky.neu.edu>
 Yehong Sun <sun.yeh@husky.neu.edu>
+Guodong Shi <shi.g@husky.neu.edu>
 `.split('\n').filter( truthy => truthy );
 
 
