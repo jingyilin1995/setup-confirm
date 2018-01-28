@@ -43,7 +43,6 @@ Xiao Yang <yang.xiao1@husky.neu.edu>
 Yue Yang <yang.yue@husky.neu.edu>
 Xiaohan Qiu <qiu.x@husky.neu.edu>
 Hongbin Li <li.hongb@husky.neu.edu>
-
 `.split('\n').filter( truthy => truthy );
 
 
