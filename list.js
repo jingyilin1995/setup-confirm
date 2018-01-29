@@ -45,6 +45,7 @@ Xiaohan Qiu <qiu.x@husky.neu.edu>
 Hongbin Li <li.hongb@husky.neu.edu>
 Yehong Sun <sun.yeh@husky.neu.edu>
 Guodong Shi <shi.g@husky.neu.edu>
+Jianan Lin <lin.jiana@husky.neu.edu>
 `.split('\n').filter( truthy => truthy );
 
 
